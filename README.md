@@ -2,7 +2,7 @@
  - Check out my [blog](https://t.me/miracleprogrammer) and my resume.
  - I’m currently working on Udemere app.
  - I’m currently learning Python, Django, SQL, Docker Testing.
-You can reach out to me via shakhbozbek.usmonov@gmail.com.
+##### You can reach out to me via shakhbozbek.usmonov@gmail.com.
 
 
 <!--
