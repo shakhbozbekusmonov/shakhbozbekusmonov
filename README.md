@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Miracle, Software Engineer at ShahNur Software.
  - Check out my [blog](https://t.me/miracleprogrammer) and my resume.
- - I’m currently working on Udemere app.
+ - I’m currently working on [Udemere app](https://udemere.com).
  - I’m currently learning Python, Django, SQL, Docker Testing.
 ##### You can reach out to me via shakhbozbek.usmonov@gmail.com.
 
