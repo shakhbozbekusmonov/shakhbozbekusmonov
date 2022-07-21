@@ -1,4 +1,4 @@
-### Hi there 👋 I am Miracle, Software engineer at ShahNur Software.
+### Hi there 👋 I am Miracle, Software Engineer at ShahNur Software.
 ##### - Check out my [blog](https://t.me/miracleprogrammer) and my resume.
 ##### - I’m currently working on Udemere app.
 ##### - I’m currently learning Python, Django, SQL, Docker Testing.
