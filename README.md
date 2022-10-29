@@ -5,7 +5,7 @@
 ##### You can reach out to me via shakhbozbek.usmonov@gmail.com.
 
 #### MY TECH STACK:
-[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/) [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/) ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,flutter&perline=3)](https://skillicons.dev)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
