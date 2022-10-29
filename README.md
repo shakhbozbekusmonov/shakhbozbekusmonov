@@ -5,7 +5,7 @@
 ##### You can reach out to me via shakhbozbek.usmonov@gmail.com.
 
 #### MY TECH STACK:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,flutter&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,bem,uikit,sass,js,react,redux,reduxtolkit,reactstrap,ant,mui,semanticui&perline=10)](https://skillicons.dev)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
