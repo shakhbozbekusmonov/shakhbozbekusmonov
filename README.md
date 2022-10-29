@@ -4,14 +4,17 @@
  - I’m currently learning Python, Telegram Bot, Django, SQL, Docker, Testing.
 ##### You can reach out to me via shakhbozbek.usmonov@gmail.com.
 
-#### MY TECH STACK:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,redux,mui,nextjs,sql,posgresql&perline=10)](https://skillicons.dev)
+#### SOFTWARE SKILLS
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cpp,py,swift,react,redux,nextjs,mui,tailwind,django,postgres,sqlite,webpack&perline=20)](https://skillicons.dev)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+#### SOFTWARE TOOLS
+[![My Skills](https://skillicons.dev/icons?i=bash,figma,git,github,gitlab,linux,powershell,stackoverflow,vscode,netlify,heroku,aws,firebase,docker&perline=20)](https://skillicons.dev)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Shakhbozbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakhbozbekusmonov&theme=blue-green)](https://github.com/shakhbozbekusmonov/github-readme-stats)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Shakhbozbek's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhbozbekusmonov&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Shakhbozbek's github streak](https://github-readme-streak-stats.herokuapp.com/?user=shakhbozbekusmonov&theme=blue-green)](https://github.com/shakhbozbekusmonov/github-readme-streak-stats)
 
 
 
