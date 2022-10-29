@@ -4,7 +4,7 @@
  - I’m currently learning Python, Telegram Bot, Django, SQL, Docker, Testing.
 ##### You can reach out to me via shakhbozbek.usmonov@gmail.com.
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **shakhbozbekusmonov/shakhbozbekusmonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
