@@ -12,7 +12,7 @@
 
 [![Shakhbozbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakhbozbekusmonov&theme=blue-green)](https://github.com/shakhbozbekusmonov/github-readme-stats)
 
-[![Shakhbozbek's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhbozbekusmonov&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Shakhbozbek's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhbozbekusmonov&theme=blue-green)](https://github.com/shakhbozbekusmonov/github-readme-stats)
 
 [![Shakhbozbek's github streak](https://github-readme-streak-stats.herokuapp.com/?user=shakhbozbekusmonov&theme=blue-green)](https://github.com/shakhbozbekusmonov/github-readme-streak-stats)
 
