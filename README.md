@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Miracle Programmer, Software Engineer at ShahNur Software.
  - Check out my [blog](https://t.me/miracleprogrammer) and my [resume](https://gist.github.com/shakhbozbekusmonov/296d6e1d7da655b450ff7fe451f0d6e4).
- - I’m currently working on [Udemere app](https://udemere.com).
+ - I’m currently working on [ShahExpress.uz app](https://shahexpress.uz).
  - I’m currently learning Python, Telegram Bot, Django, SQL, Docker, Testing.
 ##### You can reach out to me via shakhbozbek.usmonov@gmail.com.
 
