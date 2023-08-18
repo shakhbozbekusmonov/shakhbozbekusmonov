@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Miracle Programmer, Founder / CEO @ ShahNur Software. 
 ### Strong Middle Full-Stack Software Engineer (JavaScript, TypeScript, React.JS, Next.JS, Python, Dango)!
  - Check out my [blog](https://t.me/miracleprogrammer) and my [resume](https://gist.github.com/shakhbozbekusmonov/296d6e1d7da655b450ff7fe451f0d6e4).
- - I’m currently working on [ShahExpress.uz app](https://shahexpress.uz).
+ - I’m currently working on [ShahExpress.uz](https://shahexpress.uz), [newcastleschool.uz](https://newcastleschool.uz) and E-commerce server.
  - I’m currently learning Python, Telegram Bot, Django, SQL, Docker, Testing.
 ##### You can reach out to me via shakhbozbek.usmonov@gmail.com.
 
