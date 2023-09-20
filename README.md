@@ -11,7 +11,7 @@
 #### SOFTWARE TOOLS
 [![My Skills](https://skillicons.dev/icons?i=bash,figma,git,github,gitlab,linux,powershell,stackoverflow,vscode,netlify,heroku,aws,firebase,docker&perline=20)](https://skillicons.dev)
 
-[![Shakhbozbek's github streak](https://github-readme-streak-stats.herokuapp.com/?user=shakhbozbekusmonov&theme=blue-green)](https://github.com/shakhbozbekusmonov/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shakhbozbekusmonov)](https://git.io/streak-stats)
 
 
 
