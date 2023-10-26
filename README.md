@@ -6,7 +6,7 @@
 ##### You can reach out to me via shakhbozbek.usmonov@gmail.com.
 
 #### SOFTWARE SKILLS
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cpp,py,swift,react,redux,nextjs,mui,tailwind,django,postgres,sqlite,webpack&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,cpp,py,swift,react,redux,nextjs,mui,tailwind,django,postgres,sqlite,webpack&perline=20)](https://skillicons.dev)
 
 #### SOFTWARE TOOLS
 [![My Skills](https://skillicons.dev/icons?i=bash,figma,git,github,gitlab,linux,powershell,stackoverflow,vscode,netlify,heroku,aws,firebase,docker&perline=20)](https://skillicons.dev)
