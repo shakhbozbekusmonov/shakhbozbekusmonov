@@ -1,5 +1,5 @@
 ### Hello there 👋 I'm Miracle Programmer | Senior SWE @ Tramplin | CEO / Founder @ ShahNur Software, TezTyping.uz, WordWonders.uz and Udemere.uz. 
-### Senior SWE (JavaScript, TypeScript, React.JS, Next.JS, Python, Dango, FastAPI)!
+### I use (TypeScript, React.JS, Next.JS, Python, Django, FastAPI)!
  - Check out my [blog](https://t.me/miracleprogrammer).
  - I’m currently working on [Udemere.uz](https://udemere.uz), [WordWonders.uz](https://wordwonders.uz), [newcastleschool.uz](https://newcastleschool.uz), Tramplin.uz and E-commerce server.
  - I’m currently learning Python, Django, SQL, Docker, Testing.
