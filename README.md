@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Miracle Programmer
+# Hey there! 👋
 
 ### About Me
 - Senior SWE @ Tramplin.
@@ -24,10 +24,10 @@
 - Testing
 
 ### Skills
-![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,cpp,py,swift,react,redux,nextjs,mui,tailwind,django,postgres,sqlite,webpack&perline=20)
+![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,cpp,py,react,redux,nextjs,mui,tailwind,django,postgres,mysql,redis,fastapi,rabbitmq&perline=20)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=bash,figma,git,github,gitlab,linux,powershell,stackoverflow,vscode,netlify,heroku,aws,firebase,docker&perline=20)
+![Tools](https://skillicons.dev/icons?i=bash,figma,git,github,gitlab,linux,vscode,netlify,heroku,aws,firebase,docker,kali,nginx,postman,prisma&perline=20)
 
 ### GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=shakhbozbekusmonov)](https://git.io/streak-stats)
