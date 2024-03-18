@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Miracle Programmer, Founder / CEO @ ShahNur Software, TezTyping.uz, WordWonders.uz, Udemere.uz. 
+### Hello there 👋 I'm Miracle Programmer | Senior SWE @ Tramplin | CEO / Founder @ ShahNur Software, TezTyping.uz, WordWonders.uz and Udemere.uz. 
 ### Senior SWE (JavaScript, TypeScript, React.JS, Next.JS, Python, Dango, FastAPI)!
  - Check out my [blog](https://t.me/miracleprogrammer).
- - I’m currently working on Udemere.uz, TezTyping.uz, WordWonders.uz, [newcastleschool.uz](https://newcastleschool.uz), Tramplin.uz, [ShahExpress.uz](https://shahexpress.uz) and E-commerce server.
- - I’m currently learning Python, Telegram Bot, Django, SQL, Docker, Testing.
+ - I’m currently working on [Udemere.uz](https://udemere.uz), [WordWonders.uz](https://wordwonders.uz), [newcastleschool.uz](https://newcastleschool.uz), Tramplin.uz and E-commerce server.
+ - I’m currently learning Python, Django, SQL, Docker, Testing.
 ##### You can reach out to me via shakhbozbek.usmonov@gmail.com.
 
 #### SOFTWARE SKILLS
