@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 ### About Me
-- Senior SWE @ Tramplin.
+- Senior SWE @ ShahNur Software.
 - CEO / Founder @ ShahNur Software, TezTyping.uz, WordWonders.uz, and Udemere.uz.
 - Currently using TypeScript, React.JS, Next.JS, Python, Django, FastAPI.
 
@@ -13,7 +13,6 @@
 - [Udemere.uz](https://udemere.uz)
 - [WordWonders.uz](https://wordwonders.uz)
 - [Newcastle School](https://newcastleschool.uz)
-- Tramplin.uz
 - E-commerce server
 
 ### Currently Learning
