@@ -3,8 +3,6 @@
 ## About Me
 Senior Software Engineer at ShahNur Software and CEO/Founder of TezTyping.uz, WordWonders.uz, Udemere.uz, Udemere.com, AvtoBazar.uz, and ShahExpress.uz. With 5+ years in Full Stack Development, I specialize in modern web technologies and backend frameworks.
 
-## Technologies & Tools
-
 ### Frontend
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
