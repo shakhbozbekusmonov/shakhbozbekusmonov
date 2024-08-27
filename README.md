@@ -36,9 +36,6 @@ Senior Software Engineer at ShahNur Software and CEO/Founder of TezTyping.uz, Wo
 ![Nginx](https://skillicons.dev/icons?i=nginx)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
-## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=shakhbozbekusmonov)](https://git.io/streak-stats)
-
 ## Connect with Me
 - **Blog**: [Miracle Programmer](https://t.me/miracleprogrammer)
 - **Email**: shakhbozbek.usmonov@gmail.com
