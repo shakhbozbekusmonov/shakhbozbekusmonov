@@ -1,7 +1,23 @@
 # Shakhbozbek Usmonov
 
-## About Me
-Senior Software Engineer at ShahNur Software and CEO/Founder of TezTyping.uz, WordWonders.uz, Udemere.uz, Udemere.com, AvtoBazar.uz, and ShahExpress.uz. With 5+ years in Full Stack Development, I specialize in modern web technologies and backend frameworks.
+## 👨‍💻 About Me
+
+I’m a **Senior Software Engineer** at ShahNur Software and the **Founder/CEO** of various platforms, including:
+
+- **Udemere** (all platforms)
+- **TezTyping.uz**
+- **WordWonders.uz** (in development)
+- **Kicks.uz** (in development)
+- **ShahExpress.uz** (in development)
+- **Avto-Bazar.uz** (in development)
+- **MiracleBooks.uz** (in development)
+- **CinemaTube.uz** (in development)
+
+With over **5+ years** of experience in **Full Stack Development**, I specialize in building modern web applications using cutting-edge frontend technologies and robust backend frameworks.
+
+In addition to managing these platforms, I create programming tutorials on YouTube through [Miracle Programmer](https://www.youtube.com/@miracleprogrammer), where I share insights on web development, software engineering, and more.
+
+## 🛠️ Tech Stack
 
 ### Frontend
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -36,8 +52,11 @@ Senior Software Engineer at ShahNur Software and CEO/Founder of TezTyping.uz, Wo
 ![Nginx](https://skillicons.dev/icons?i=nginx)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
-## Connect with Me
-- **Blog**: [Miracle Programmer](https://t.me/miracleprogrammer)
-- **Email**: shakhbozbek.usmonov@gmail.com
+## 📞 Connect with Me
 
-Feel free to explore my repositories to see my work and contributions to the software engineering community. Let's connect and collaborate on exciting projects!
+- **YouTube**: [Miracle Programmer](https://www.youtube.com/@miracleprogrammer)
+- **Telegram Blog**: [Miracle Programmer](https://t.me/miracleprogrammer)
+- **Email**: [shakhbozbek.usmonov@gmail.com](mailto:shakhbozbek.usmonov@gmail.com)
+- **Website**: [Miracle Programmer](https://miracleprogrammer.com)
+
+Feel free to explore my repositories to see my work and contributions. Let’s connect and collaborate on innovative and exciting projects!
