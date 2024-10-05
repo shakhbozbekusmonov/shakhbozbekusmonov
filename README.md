@@ -6,14 +6,14 @@
 
 I’m a **Senior Software Engineer** at ShahNur Software and the **Founder/CEO** of various platforms, including:
 
-- **Udemere** (all platforms)
-- **TezTyping.uz**
-- **WordWonders.uz** (in development)
-- **Kicks.uz** (in development)
-- **ShahExpress.uz** (in development)
-- **Avto-Bazar.uz** (in development)
-- **MiracleBooks.uz** (in development)
-- **CinemaTube.uz** (in development)
+- [**Udemere**](https://udemere.uz) (all platforms)
+- [**TezTyping.uz**](https://teztyping.uz)
+- [**WordWonders.uz**](https://wordwonders.uz) (in development)
+- [**Kicks.uz**](https://kicks.uz) (in development)
+- [**ShahExpress.uz**](https://shahexpress.uz) (in development)
+- [**Avto-Bazar.uz**](https://avto-bazar.uz) (in development)
+- [**MiracleBooks.uz**](https://miraclebooks.uz) (in development)
+- [**CinemaTube.uz**](https://cinematube.uz) (in development)
 
 With over **5+ years** of experience in **Full Stack Development**, I specialize in building modern web applications using cutting-edge frontend technologies and robust backend frameworks.
 
