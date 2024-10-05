@@ -1,3 +1,5 @@
+<img width="1050" alt="Screenshot 2024-10-05 at 6 38 08 PM" src="https://github.com/user-attachments/assets/2b67fe83-dcf8-4797-9e58-f6b4e5c9cda5">
+
 # Shakhbozbek Usmonov
 
 ## 👨‍💻 About Me
