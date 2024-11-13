@@ -58,5 +58,6 @@ In addition to managing these platforms, I create programming tutorials on YouTu
 - **Telegram Blog**: [Miracle Programmer](https://t.me/miracleprogrammer)
 - **Email**: [shakhbozbek.usmonov@gmail.com](mailto:shakhbozbek.usmonov@gmail.com)
 - **Website**: [Miracle Programmer](https://miracleprogrammer.com)
+- **LeetCode**: [Shakhbozbek Usmonov](https://leetcode.com/u/shakhbozbekusmonov/)
 
 Feel free to explore my repositories to see my work and contributions. Let’s connect and collaborate on innovative and exciting projects!
