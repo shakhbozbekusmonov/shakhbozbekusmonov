@@ -4,7 +4,7 @@
 
 I’m a **Senior Software Engineer** at ShahNur Software and the **Founder/CEO** of various platforms, including:
 
-- [**Udemere**](https://udemere.uz) (all platforms)
+- [**Udemere**](https://udemere.uz) EcoSystem
 - [**TezTyping.uz**](https://teztyping.uz)
 - [**WordWonders.uz**](https://wordwonders.uz) (in development)
 - [**Kicks.uz**](https://kicks.uz) (in development)
