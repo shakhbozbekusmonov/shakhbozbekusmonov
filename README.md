@@ -13,7 +13,7 @@ I’m a **Senior Software Engineer** at ShahNur Software and the **Founder/CEO**
 - [**MiracleBooks.uz**](https://miraclebooks.uz) (in development)
 - [**CinemaTube.uz**](https://cinematube.uz) (in development)
 
-With over **7+ years** of experience in **Full Stack Development**, I specialize in building modern web applications using cutting-edge frontend technologies and robust backend frameworks.
+With over **7+ years** of experience in **Software Engineering**, I specialize in building modern web applications using cutting-edge frontend technologies and robust backend frameworks.
 
 In addition to managing these platforms, I create programming tutorials on YouTube through [Miracle Programmer](https://www.youtube.com/@miracleprogrammer), where I share insights on web development, software engineering, and more.
 
