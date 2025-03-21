@@ -8,7 +8,6 @@ I’m a **Senior Software Engineer** at ShahNur Software and the **Founder/CEO**
 - [**TezTyping.uz**](https://teztyping.uz)
 - [**WordWonders.uz**](https://wordwonders.uz) (in development)
 - [**Kicks.uz**](https://kicks.uz) (in development)
-- [**ShahExpress.uz**](https://shahexpress.uz) (in development)
 - [**Avto-Bazar.uz**](https://avto-bazar.uz) (in development)
 - [**MiracleBooks.uz**](https://miraclebooks.uz) (in development)
 - [**CinemaTube.uz**](https://cinematube.uz) (in development)
