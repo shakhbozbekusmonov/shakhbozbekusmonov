@@ -6,11 +6,9 @@ I’m a **Senior Software Engineer** at ShahNur Software and the **Founder/CEO**
 
 - [**Udemere**](https://udemere.uz) EcoSystem
 - [**TezTyping.uz**](https://teztyping.uz)
-- [**WordWonders.uz**](https://wordwonders.uz) (in development)
-- [**Kicks.uz**](https://kicks.uz) (in development)
-- [**Avto-Bazar.uz**](https://avto-bazar.uz) (in development)
-- [**MiracleBooks.uz**](https://miraclebooks.uz) (in development)
-- [**CinemaTube.uz**](https://cinematube.uz) (in development)
+- [**WordWonders.uz**](https://wordwonders.uz)
+- [**Kicks.uz**](https://kicks.uz)
+- [**OsonDokon.uz**](https://osondokon.uz)
 
 With over **7+ years** of experience in **Software Engineering**, I specialize in building modern web applications using cutting-edge frontend technologies and robust backend frameworks.
 
