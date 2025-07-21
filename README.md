@@ -10,7 +10,7 @@ I’m a **Senior Software Engineer** at ShahNur Software and the **Founder/CEO**
 - [**Kicks.uz**](https://kicks.uz)
 - [**OsonDokon.uz**](https://osondokon.uz)
 
-With over **7+ years** of experience in **Software Engineering**, I specialize in building modern web applications using cutting-edge frontend technologies and robust backend frameworks.
+With over **10+ years** of experience in **Software Engineering**, I specialize in building modern web applications using cutting-edge frontend technologies and robust backend frameworks.
 
 In addition to managing these platforms, I create programming tutorials on YouTube through [Miracle Programmer](https://www.youtube.com/@miracleprogrammer), where I share insights on web development, software engineering, and more.
 
